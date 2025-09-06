@@ -16,3 +16,11 @@
     "express-session": "^1.18.2"
   }
 }
+{
+  "name": "dublaj-takip",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'Statik site, çalışacak sunucuya gerek yok'"
+  }
+}
+
