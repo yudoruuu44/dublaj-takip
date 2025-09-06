@@ -19,8 +19,11 @@
 {
   "name": "dublaj-takip",
   "version": "1.0.0",
+  "description": "Dublaj takip paneli",
   "scripts": {
-    "start": "echo 'Statik site, çalışacak sunucuya gerek yok'"
-  }
+    "start": "echo 'No start script needed for static site'"
+  },
+  "author": "",
+  "license": "ISC"
 }
 
